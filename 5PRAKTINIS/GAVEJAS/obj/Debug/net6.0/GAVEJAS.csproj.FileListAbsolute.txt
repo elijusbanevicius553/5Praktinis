@@ -1,0 +1,15 @@
+C:\Users\Elijus\Desktop\Informacijos saugumas\5PRAKTINIS\GAVEJAS\bin\Debug\net6.0\GAVEJAS.exe
+C:\Users\Elijus\Desktop\Informacijos saugumas\5PRAKTINIS\GAVEJAS\bin\Debug\net6.0\GAVEJAS.deps.json
+C:\Users\Elijus\Desktop\Informacijos saugumas\5PRAKTINIS\GAVEJAS\bin\Debug\net6.0\GAVEJAS.runtimeconfig.json
+C:\Users\Elijus\Desktop\Informacijos saugumas\5PRAKTINIS\GAVEJAS\bin\Debug\net6.0\GAVEJAS.dll
+C:\Users\Elijus\Desktop\Informacijos saugumas\5PRAKTINIS\GAVEJAS\bin\Debug\net6.0\GAVEJAS.pdb
+C:\Users\Elijus\Desktop\Informacijos saugumas\5PRAKTINIS\GAVEJAS\obj\Debug\net6.0\GAVEJAS.csproj.AssemblyReference.cache
+C:\Users\Elijus\Desktop\Informacijos saugumas\5PRAKTINIS\GAVEJAS\obj\Debug\net6.0\GAVEJAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elijus\Desktop\Informacijos saugumas\5PRAKTINIS\GAVEJAS\obj\Debug\net6.0\GAVEJAS.AssemblyInfoInputs.cache
+C:\Users\Elijus\Desktop\Informacijos saugumas\5PRAKTINIS\GAVEJAS\obj\Debug\net6.0\GAVEJAS.AssemblyInfo.cs
+C:\Users\Elijus\Desktop\Informacijos saugumas\5PRAKTINIS\GAVEJAS\obj\Debug\net6.0\GAVEJAS.csproj.CoreCompileInputs.cache
+C:\Users\Elijus\Desktop\Informacijos saugumas\5PRAKTINIS\GAVEJAS\obj\Debug\net6.0\GAVEJAS.dll
+C:\Users\Elijus\Desktop\Informacijos saugumas\5PRAKTINIS\GAVEJAS\obj\Debug\net6.0\refint\GAVEJAS.dll
+C:\Users\Elijus\Desktop\Informacijos saugumas\5PRAKTINIS\GAVEJAS\obj\Debug\net6.0\GAVEJAS.pdb
+C:\Users\Elijus\Desktop\Informacijos saugumas\5PRAKTINIS\GAVEJAS\obj\Debug\net6.0\GAVEJAS.genruntimeconfig.cache
+C:\Users\Elijus\Desktop\Informacijos saugumas\5PRAKTINIS\GAVEJAS\obj\Debug\net6.0\ref\GAVEJAS.dll

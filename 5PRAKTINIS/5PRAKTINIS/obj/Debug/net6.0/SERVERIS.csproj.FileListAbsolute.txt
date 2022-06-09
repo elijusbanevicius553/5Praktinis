@@ -1,0 +1,15 @@
+C:\Users\Elijus\Desktop\Informacijos saugumas\5PRAKTINIS\5PRAKTINIS\obj\Debug\net6.0\SERVERIS.csproj.AssemblyReference.cache
+C:\Users\Elijus\Desktop\Informacijos saugumas\5PRAKTINIS\5PRAKTINIS\obj\Debug\net6.0\SERVERIS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elijus\Desktop\Informacijos saugumas\5PRAKTINIS\5PRAKTINIS\obj\Debug\net6.0\SERVERIS.AssemblyInfoInputs.cache
+C:\Users\Elijus\Desktop\Informacijos saugumas\5PRAKTINIS\5PRAKTINIS\obj\Debug\net6.0\SERVERIS.AssemblyInfo.cs
+C:\Users\Elijus\Desktop\Informacijos saugumas\5PRAKTINIS\5PRAKTINIS\obj\Debug\net6.0\SERVERIS.csproj.CoreCompileInputs.cache
+C:\Users\Elijus\Desktop\Informacijos saugumas\5PRAKTINIS\5PRAKTINIS\bin\Debug\net6.0\SERVERIS.exe
+C:\Users\Elijus\Desktop\Informacijos saugumas\5PRAKTINIS\5PRAKTINIS\bin\Debug\net6.0\SERVERIS.deps.json
+C:\Users\Elijus\Desktop\Informacijos saugumas\5PRAKTINIS\5PRAKTINIS\bin\Debug\net6.0\SERVERIS.runtimeconfig.json
+C:\Users\Elijus\Desktop\Informacijos saugumas\5PRAKTINIS\5PRAKTINIS\bin\Debug\net6.0\SERVERIS.dll
+C:\Users\Elijus\Desktop\Informacijos saugumas\5PRAKTINIS\5PRAKTINIS\bin\Debug\net6.0\SERVERIS.pdb
+C:\Users\Elijus\Desktop\Informacijos saugumas\5PRAKTINIS\5PRAKTINIS\obj\Debug\net6.0\SERVERIS.dll
+C:\Users\Elijus\Desktop\Informacijos saugumas\5PRAKTINIS\5PRAKTINIS\obj\Debug\net6.0\refint\SERVERIS.dll
+C:\Users\Elijus\Desktop\Informacijos saugumas\5PRAKTINIS\5PRAKTINIS\obj\Debug\net6.0\SERVERIS.pdb
+C:\Users\Elijus\Desktop\Informacijos saugumas\5PRAKTINIS\5PRAKTINIS\obj\Debug\net6.0\SERVERIS.genruntimeconfig.cache
+C:\Users\Elijus\Desktop\Informacijos saugumas\5PRAKTINIS\5PRAKTINIS\obj\Debug\net6.0\ref\SERVERIS.dll

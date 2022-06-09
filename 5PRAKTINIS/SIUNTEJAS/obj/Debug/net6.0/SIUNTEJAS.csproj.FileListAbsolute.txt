@@ -1,0 +1,15 @@
+C:\Users\Elijus\Desktop\Informacijos saugumas\5PRAKTINIS\SIUNTEJAS\bin\Debug\net6.0\SIUNTEJAS.exe
+C:\Users\Elijus\Desktop\Informacijos saugumas\5PRAKTINIS\SIUNTEJAS\bin\Debug\net6.0\SIUNTEJAS.deps.json
+C:\Users\Elijus\Desktop\Informacijos saugumas\5PRAKTINIS\SIUNTEJAS\bin\Debug\net6.0\SIUNTEJAS.runtimeconfig.json
+C:\Users\Elijus\Desktop\Informacijos saugumas\5PRAKTINIS\SIUNTEJAS\bin\Debug\net6.0\SIUNTEJAS.dll
+C:\Users\Elijus\Desktop\Informacijos saugumas\5PRAKTINIS\SIUNTEJAS\bin\Debug\net6.0\SIUNTEJAS.pdb
+C:\Users\Elijus\Desktop\Informacijos saugumas\5PRAKTINIS\SIUNTEJAS\obj\Debug\net6.0\SIUNTEJAS.csproj.AssemblyReference.cache
+C:\Users\Elijus\Desktop\Informacijos saugumas\5PRAKTINIS\SIUNTEJAS\obj\Debug\net6.0\SIUNTEJAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elijus\Desktop\Informacijos saugumas\5PRAKTINIS\SIUNTEJAS\obj\Debug\net6.0\SIUNTEJAS.AssemblyInfoInputs.cache
+C:\Users\Elijus\Desktop\Informacijos saugumas\5PRAKTINIS\SIUNTEJAS\obj\Debug\net6.0\SIUNTEJAS.AssemblyInfo.cs
+C:\Users\Elijus\Desktop\Informacijos saugumas\5PRAKTINIS\SIUNTEJAS\obj\Debug\net6.0\SIUNTEJAS.csproj.CoreCompileInputs.cache
+C:\Users\Elijus\Desktop\Informacijos saugumas\5PRAKTINIS\SIUNTEJAS\obj\Debug\net6.0\SIUNTEJAS.dll
+C:\Users\Elijus\Desktop\Informacijos saugumas\5PRAKTINIS\SIUNTEJAS\obj\Debug\net6.0\refint\SIUNTEJAS.dll
+C:\Users\Elijus\Desktop\Informacijos saugumas\5PRAKTINIS\SIUNTEJAS\obj\Debug\net6.0\SIUNTEJAS.pdb
+C:\Users\Elijus\Desktop\Informacijos saugumas\5PRAKTINIS\SIUNTEJAS\obj\Debug\net6.0\SIUNTEJAS.genruntimeconfig.cache
+C:\Users\Elijus\Desktop\Informacijos saugumas\5PRAKTINIS\SIUNTEJAS\obj\Debug\net6.0\ref\SIUNTEJAS.dll
